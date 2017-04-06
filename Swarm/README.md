@@ -1,5 +1,7 @@
-Steps:
+# Docker Swarm:
+### Screencast: 
 
+### Demo steps:
 1. Vagrant is running N virtual machine.
 2. Swarm init -> Adding VMs to swarm
     ``` bash
