@@ -49,7 +49,7 @@
 
 5. 	Run ```docker ps``` and you can see that there are now 3 new containers running
 	
-	![docker_ps](https://github.ncsu.edu/smirhos/CSC519-TechTalks/blob/master/docker_compose/Resources/docker_ps_networks.png)
+	![docker_ps_networks](https://github.ncsu.edu/smirhos/CSC519-TechTalks/blob/master/Docker_Compose/Resources/docker_ps_networks.png)
 
 6. Now, run `docker exec -it [NAME of service] bash` to get inside the service container
 
@@ -74,7 +74,8 @@ follow the same steps for other services as well.
 	```
 4. We have mounted the volumes in the local directory `[data:/data]`
 5. Run `docker ps` and we have these 2 containers	
-   ![docker_ps_volumes](https://github.ncsu.edu/smirhos/CSC519-TechTalks/blob/master/docker_compose/Resources/docker_ps_volumes.png)
+   ![docker_ps_volumes](https://github.ncsu.edu/smirhos/CSC519-TechTalks/blob/master/Docker_Compose/Resources/docker_ps_volumes.png)
+
 
 6. Now, run `docker exec -it [NAME of service] bash` to get inside the service container
 7. There will be a folder `data`
