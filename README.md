@@ -1,10 +1,10 @@
 # CSC519-TechTalks
 
 ## Team Members:
-* Shaurya Garg (sgarg7)
-* Seyedsami Mirhosseini Ghamsari (smirhos)
-* Vivek Bhat (vbhat)
-* Nikhila Balaji (nbalaji)
+* Shaurya Garg
+* Seyedsami Mirhosseini Ghamsari
+* Vivek Bhat 
+* Nikhila Balaji
 
 ### Advanced Docker Usage - Docker Compose
 * Install - Docker/ Docker Compose
